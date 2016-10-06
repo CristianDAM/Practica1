@@ -3,5 +3,6 @@ public class CristianGutierrez{
 	public static void main(String args[]){
 	System.out.println("Cristian Gutierrez");
 	System.out.println("18 años");
+	System.out.println("Leon");
 	}
 }
